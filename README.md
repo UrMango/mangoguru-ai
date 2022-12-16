@@ -1,7 +1,9 @@
 # Mango Guru AI (NLP Chatbot)
 ![License](https://img.shields.io/aur/license/apache-spark)
 [![Follow](https://img.shields.io/github/followers/UrMango?label=Follow%20Me&style=social)](https://github.com/UrMango)
-### A simple NLP AI mango bot built in python built for the Great Mango website.
+### A simple NLP AI mango bot built in python built for [the Mango website](https://mangosecrets.com/).
+
+
 
 This repository contains a mango chatbot built using a combination of natural language processing (NLP) techniques and machine learning. The mangobot is trained on a dataset of pre-defined intents and their corresponding patterns and tags. The chatbot is able to classify the user's input into one of the pre-defined intents, and respond with a pre-defined message corresponding to the classified intent.
 
